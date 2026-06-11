@@ -3,7 +3,7 @@
 <p align="left">
 🎓 Computer Science Student<br>
 📊 Passionate about Data Science & Machine Learning<br>
-☁️ Exploring Cloud Technologies and AI Applications
+☁️ Exploring Cloud Computing and AI Applications
 </p>
 
 ###
@@ -11,10 +11,9 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs since 2023<br>
 📚 Currently learning Cloud Computing, Scikit-learn, and Data Structures & Algorithms<br>
-🎯 Goal: Build data-driven applications and develop practical machine learning solutions<br>
-☕ Fun fact: Most of my best ideas arrive somewhere between the first and third coffee of the day
+🎯 Goal: Gain practical experience in Data Science and Machine Learning through real-world projects<br>
+💡 Interested in turning data into meaningful insights and building useful software solutions
 </p>
 
 ###
