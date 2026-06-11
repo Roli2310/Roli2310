@@ -1,12 +1,50 @@
-# 💫 About Me:
-# 👋 Hi, I'm Roland<br><br>🎓 Computer Science Student<br><br>I'm passionate about software development and enjoy building projects that help me improve my programming and problem-solving skills. Currently, I'm focusing on Java development, machine learning, and cloud technologies.<br><br>## 🛠️ Tech Stack<br><br>- Java<br>- Python<br>- SQL<br>- Git<br>- Gradle<br><br>## 📚 Currently Learning<br><br>- ☁️ Cloud Computing<br>- 🤖 Machine Learning with Scikit-learn<br>- 📊 Data Structures & Algorithms<br>- 🏗️ Software Engineering<br><br>## 🚀 Projects<br><br>### 🎮 Smash Dash<br>Breakout-inspired arcade game developed in Java to explore object-oriented programming concepts such as inheritan
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="left">My name is Roland and I'm a Computer Science student with a strong interest in data science, machine learning, and software development.</p>
 
+###
 
----
-[![](https://komarev.com/ghpvc/?username=Roli2310&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">About me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">
+✨ Creating bugs since 2023<br>
+📚 I'm currently learning Cloud Computing, Scikit-learn, and Data Structures & Algorithms<br>
+🎯 Goals: Build impactful data-driven applications and gain real-world experience in software engineering and machine learning<br>
+🎲 Fun fact: I enjoy turning datasets into insights almost as much as turning coffee into code ☕
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+</div>
+
+###
+
+<h2 align="left">Areas of Interest</h2>
+
+###
+
+<p align="left">
+📊 Data Science<br>
+🤖 Machine Learning<br>
+☁️ Cloud Computing<br>
+💻 Software Development<br>
+🔐 Cybersecurity
+</p>
