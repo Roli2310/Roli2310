@@ -1,27 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Roland</h1>
 
-###
-
-<p align="left">My name is Roland and I'm a Computer Science student with a strong interest in data science, machine learning, and software development.</p>
+<p align="left">
+🎓 Computer Science Student<br>
+📊 Passionate about Data Science & Machine Learning<br>
+☁️ Exploring Cloud Technologies and AI Applications
+</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">
 ✨ Creating bugs since 2023<br>
-📚 I'm currently learning Cloud Computing, Scikit-learn, and Data Structures & Algorithms<br>
-🎯 Goals: Build impactful data-driven applications and gain real-world experience in software engineering and machine learning<br>
-🎲 Fun fact: I enjoy turning datasets into insights almost as much as turning coffee into code ☕
+📚 Currently learning Cloud Computing, Scikit-learn, and Data Structures & Algorithms<br>
+🎯 Goal: Build data-driven applications and develop practical machine learning solutions<br>
+☕ Fun fact: Most of my best ideas arrive somewhere between the first and third coffee of the day
 </p>
 
 ###
 
 <h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -30,8 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
 </div>
 
@@ -39,12 +35,9 @@
 
 <h2 align="left">Areas of Interest</h2>
 
-###
-
 <p align="left">
 📊 Data Science<br>
 🤖 Machine Learning<br>
 ☁️ Cloud Computing<br>
-💻 Software Development<br>
-🔐 Cybersecurity
+💻 Software Development
 </p>
